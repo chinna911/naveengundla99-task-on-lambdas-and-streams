@@ -1,1 +1,1 @@
-#task on lambda andstreams
+#task on lambda and streams
